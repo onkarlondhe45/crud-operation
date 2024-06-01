@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "first_name": "Onkar",
+        "last_name": "Londhe",
+        "email": "onkarlondhe@gmail.com",
+        "city": "Solapur"
+    },
+    {
+        "id": 2,
+        "first_name": "Kishor",
+        "last_name": "Parde",
+        "email": "kishorparde@gmail.com",
+        "city": "Barshi"
+    },
+    {
+        "id": 3,
+        "first_name": "Balasaheb",
+        "last_name": "Patekar",
+        "email": "balasahebpatekar@gmail.com",
+        "city": "Madha"
+    },
+    {
+        "id": 4,
+        "first_name": "Mukund",
+        "last_name": "Salunke",
+        "email": "mukundsalunke@gmail.com",
+        "city": "Mohol"
+    },
+    {
+        "id": 5,
+        "first_name": "Rohan",
+        "last_name": "Mote",
+        "email": "rohanmote@gmail.com",
+        "city": "Pandharpur"
+    }
+]
